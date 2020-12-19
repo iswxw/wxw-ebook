@@ -3,6 +3,13 @@
 
 
 
+
+
 ### 在线资源
 
+- [singgel](https://github.com/singgel) ——收集了各种计算机类的书籍资源
 - [GitHub  EbookFoundation 免费版提供编程书籍](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md)  汇集了大量编程电子书籍
+
+### 在线网站
+
+- [计算机书籍控](http://bestcbooks.com/) ——很不错的站点，可以看各种计算机类的书籍目录
